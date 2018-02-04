@@ -1,2 +1,2 @@
 # autopac
-Proxy auto-config files
+Proxy auto-config files, internal usage.
