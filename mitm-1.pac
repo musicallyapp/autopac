@@ -9,6 +9,7 @@ var RULES = [
         ".snssdk.com",
         ".amemv.com",
         ".douyin.com",
+        ".musical.ly",
     ],
 ];
 
